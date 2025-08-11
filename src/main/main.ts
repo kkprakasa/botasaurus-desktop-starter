@@ -11,7 +11,7 @@ import MenuBuilder from './menu'
 import { onClose } from "botasaurus/on-close";
 import { getWindow, setWindow } from './utils/window'
 import scraperToInputJs from './utils/scraper-to-input-js'
-import * as allScrapers from '../../scraper/src';
+import * as allScrapers from '../scraper/src';
 import run from 'botasaurus-server/run';
 import { Server } from 'botasaurus-server/server';
 
