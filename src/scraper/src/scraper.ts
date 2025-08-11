@@ -17,4 +17,4 @@ const scrapeHeadingTask = playwright<any>({
   },
 });
 
-export { scrapeHeadingTask };
+scrapeHeadingTask;
